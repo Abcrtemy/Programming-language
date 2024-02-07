@@ -1,0 +1,4 @@
+turn KETTLE on
+turn VACUUM on 1
+if DOOR on {LAMP on}
+if SMOKE on {ALARM on}
